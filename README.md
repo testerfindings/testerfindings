@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @testerfindings
-- 👀 I’m interested in APITesting and PYTHON
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in APITesting with SQL and PYTHON
+- 🌱 I’m currently learning PYTHON to implement with SQL
+- 💞️ I’m looking to collaborate on Python with SQL projects
 - 📫 How to reach me ...
 
 <!---
